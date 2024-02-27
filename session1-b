@@ -1,0 +1,12 @@
+str1 = "Strings in Python are surrounded by either single quotation marks or double quotation marks."
+print ( str1 [ 0:7 ])
+print ( str1 [ 11:17 ])
+print ( str1 [ -6:-1 ])
+print ( str1 [ -9: ])
+
+#second task 
+inp1 = int(input("What is you number: "))
+
+inp2 = int(input("What is your number: "))
+
+print(inp1 + inp2)
